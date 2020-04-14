@@ -1,0 +1,2 @@
+##Automation menu is where you define the menu. 
+##ID,Title,Command File Name,type
