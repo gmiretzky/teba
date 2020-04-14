@@ -5,7 +5,7 @@ The app use text files for menus and tasks to be run. Menus files can holds refe
 
 The tasks file can hold many different devices and for each device a group of commands. 
 
-The conneciton is made using SSH with a user name and password. The credentials are inputed at the start of the script togther with a lock password. Just like an app on your phone, this app can run in the background and no one will be able to run commands without enter the lock password. 
+The conneciton is made using SSH with a user name and password. The credentials are input at the start of the script togther with a lock password. Just like an app on your phone, this app can run in the background and no one will be able to run commands without enter the lock password. 
 
 The lock password keep the application safe from miss using , but also keep the user credentials safe. 
 
